@@ -25,6 +25,12 @@
       "relation": "manyToMany",
       "target": "api::category.category",
       "mappedBy": "restaurants"
+    },
+    "view": {
+      "type": "dynamiczone",
+      "components": [
+        "views.home"
+      ]
     }
   }
 }
