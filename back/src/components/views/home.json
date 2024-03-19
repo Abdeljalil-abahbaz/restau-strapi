@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_views_homes",
+  "info": {
+    "displayName": "restaurants",
+    "icon": "restaurant",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "grid": {
+      "type": "json"
+    }
+  }
+}

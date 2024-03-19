@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_layouts_restaurants",
+  "info": {
+    "displayName": "Home",
+    "icon": "layout",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "grid": {
+      "type": "json"
+    }
+  }
+}
